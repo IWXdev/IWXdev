@@ -1,6 +1,7 @@
 
-# 👋 Hi there! I'm IWX
+<h1 align="center">👋 Hi there! I'm <span style="color:#4CAF50">IWX</span></h1>
 
+<p align="center">
 🎮 Indie Game Developer | Self-Taught | On a mission to make cool games
 
 ---
@@ -21,8 +22,9 @@ I've been learning game development step by step over the past few months and sh
 
 ---
 
-## 🎯 What I'm Working On
+## 📌 Current Project
 
+### 🎮 [Stach](https://github.com/IWXdev/Stach)
 - Building my 2D platformer game called *Stach*
 - Polishing mechanics (movement, damage, healing, checkpoints)
 - Improving code structure and performance
