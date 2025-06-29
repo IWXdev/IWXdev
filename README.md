@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://your-image-link.com/banner.png" alt="Banner" />
+</p>
+
 # 👋 Hi there! I'm IWX
 
 🎮 Indie Game Developer | Self-Taught | On a mission to make cool games
@@ -46,14 +50,21 @@ After finishing *Stach*, I plan to:
 - Learn game design & player experience deeply
 
 ---
-
-Thanks for passing by!  
-Feel free to check out my repositories to follow my progress. 💪
-
----
-
 ## 🌐 Connect with Me
 
-[![instagram](https://img.shields.io/badge/instagram-181717?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayoub__iwx?igsh=N3k2ZXBiOWhiZTU1)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://iwx-10.itch.io/)
-[![X](https://img.shields.io/badge/x-FF0000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AYOUB_IWX?t=nCRvwL-EjUBEvQsSuS7_oQ&s=09)
+
+<p align="center">
+  <a href="https://iwx-10.itch.io/">
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ayoub__iwx?igsh=N3k2ZXBiOWhiZTU1">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/AYOUB_IWX?t=nCRvwL-EjUBEvQsSuS7_oQ&s=09">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+Thanks for passing by!  
+Feel free to check out my repositories to follow my progress.
