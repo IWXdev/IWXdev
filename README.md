@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.istockphoto.com/id/863604296/photo/unique-design-abstract-digital-pixel-noise-glitch-error-video-damage.jpg?s=2048x2048&w=is&k=20&c=z3xKD8HHgSoJkw1I8319DlJ0EIJQYYgfb-0s8XwDCfg=" alt="Stach Banner" />
-</p>
-
 # 👋 Hi there! I'm IWX
 
 🎮 Indie Game Developer | Self-Taught | On a mission to make cool games
