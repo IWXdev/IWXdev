@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Banner" />
-</p>
 
 # 👋 Hi there! I'm IWX
 
