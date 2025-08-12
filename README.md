@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I am a passionate and dedicated game developer with strong experience in Godot Engi and GDScript, currently w
+I am a passionate and dedicated game developer with strong experience in Godot Engine and GDScript, currently w
 I amUnity andC#, while also deepening my knowledge C and C++ 
 Additionally, I am proficient with the Unix/Linux terminal and Shell scripting to streamline development workflows and automate tasks efficiently and sharing my journey here.
 
