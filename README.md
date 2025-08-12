@@ -8,17 +8,20 @@
 
 ## 🧠 About Me
 
-I'm a beginner to intermediate game developer currently working on my first serious project using *Godot Engine*.  
-I've been learning game development step by step over the past few months and sharing my journey here.
+I am a passionate and dedicated game developer with strong experience in Godot Engi and GDScript, currently w
+I amUnity andC#, while also deepening my knowledge C and C++ 
+Additionally, I am proficient with the Unix/Linux terminal and Shell scripting to streamline development workflows and automate tasks efficiently and sharing my journey here.
 
 ---
+## Programming languages
+- ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)      ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)      ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)      ![GDScript](https://img.shields.io/badge/-GDScript-6E9CFF?style=flat&logo=godot-engine&logoColor=white)
 
 ## 🛠 Skills & Tools
-
-- 🌀 Godot Engine (GDScript)
+- 🌀 **Godot Engine** ![GDScript](https://img.shields.io/badge/-GDScript-6E9CFF?style=flat&logo=godot-engine&logoColor=white)
+- 🔷 **Unity Engine** ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+- 🖥 **Unix/Linux Terminal & Shell scripting:** ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+- 💾 Git & GitHub for version control ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 - 🎨 Basic pixel art & free assets integration
-- 🔁 Checkpoint systems, player health, UI
-- 💾 Git & GitHub for version control
 
 ---
 
@@ -36,9 +39,9 @@ I've been learning game development step by step over the past few months and sh
 
 After finishing *Stach*, I plan to:
 
-- Switch to *Unity Engine*
-- Learn and master *C#*
-- Start developing my second game with more complex systems
+- Deepening my proficiency in Unity Engine to leverage its full potential
+- Mastering C# to build scalable and maintainable game systems
+- Initiating development of my second game featuring more advanced mechanics and richer gameplay experiences
 
 ---
 
