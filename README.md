@@ -14,7 +14,7 @@ Additionally, I am proficient with the Unix/Linux terminal and Shell scripting t
 
 ---
 
-## Programming Languages
+## Programming Languages Skills & Tools 🛠
 
 <p float="left" align="center">
   <img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C" width="65" height="65" style="border-radius:60%;"/>
@@ -24,38 +24,19 @@ Additionally, I am proficient with the Unix/Linux terminal and Shell scripting t
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/godotengine/godot/master/icon.svg" alt="Godot" width="60" height="60" style="border-radius:50%;"/>
-</p>
-
----
-
-## 🛠 Skills & Tools
-
-<p float="left" align="center">
-  <img src="https://raw.githubusercontent.com/godotengine/godot/master/icon.svg" alt="Godot" width="60" height="60"/>
   &nbsp;&nbsp;
-  <b>Godot Engine & GDScript</b>
-</p>
-
-<p float="left" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="60" height="60"/>
   &nbsp;&nbsp;
-  <b>Unity Engine & C#</b>
-</p>
-
-<p float="left" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
   &nbsp;&nbsp;
-  <b>Unix/Linux Terminal & Shell scripting</b>
-</p>
-
-<p float="left" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
   &nbsp;&nbsp;
-  <b>Git & GitHub</b>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Git" width="60" height="60"/>
+  &nbsp;&nbsp;
 </p>
 
 ---
-## 📊 GitHub INSIGHTS
+
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=IWXdev&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IWXdev&layout=compact&theme=radical)
 
@@ -70,23 +51,6 @@ Additionally, I am proficient with the Unix/Linux terminal and Shell scripting t
 
 ---
 
-## 🚀 What's Next?
-
-After finishing *Stach*, I plan to:
-
-- Deepening my proficiency in Unity Engine to leverage its full potential
-- Mastering C# to build scalable and maintainable game systems
-- Initiating development of my second game featuring more advanced mechanics and richer gameplay experiences
-
----
-
-## 🌱 My Goals
-
-- Become a skilled and consistent solo developer
-- Finish and publish small games regularly
-- Learn game design & player experience deeply
-
----
 ## 🌐 Connect with Me
 
 
