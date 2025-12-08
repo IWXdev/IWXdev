@@ -37,9 +37,9 @@ Additionally, I am proficient with the Unix/Linux terminal and Shell scripting t
 
 ---
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=IWXdev&show_icons=true&theme=radical)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=IWXdev&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IWXdev&layout=compact&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IWXdev&layout=compact&theme=radical)
 
 ## 📌 Current Project
 
