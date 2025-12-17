@@ -1,12 +1,12 @@
-<h1 align="center">👋 Hi there! I'm <span style="color:#4CAF50">IWX</span></h1>
+<h1 align="center"> I'm <span style="color:#4CAF50">IWX</span></h1>
 
 <p align="center">
-🎮 Indie Game Developer | Self-Taught | Building games & leveling up every day
+ Indie Game Developer | Self-Taught | Building games & leveling up every day
 </p>
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I am a passionate game developer with solid experience in **Godot Engine** and **GDScript**.  
 Currently learning **Unity** and **C#**, while also improving my knowledge of **C** and **C++**.  
@@ -15,7 +15,7 @@ This GitHub is where I share my journey as I grow as a developer.
 
 ---
 
-## 🛠 Programming Languages, Skills & Tools
+##  Programming Languages, Skills & Tools
 
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/c-programming.png" width="60" alt="C"/>
@@ -48,7 +48,7 @@ This GitHub is where I share my journey as I grow as a developer.
 
 ## 📌 Current Project
 
-### 🎮 [Stach](https://github.com/IWXdev/Stach)
+###  [Stach](https://github.com/IWXdev/Stach)
 - Building a 2D platformer game called **Stach**
 - Polishing gameplay mechanics (movement, combat, healing, checkpoints…)
 - Improving performance and code structure
@@ -56,7 +56,7 @@ This GitHub is where I share my journey as I grow as a developer.
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://iwx-10.itch.io/">
