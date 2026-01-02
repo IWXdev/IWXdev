@@ -3,7 +3,6 @@
 <p align="center">
  Indie Game Developer | Self-Taught | Building games & leveling up every day
 </p>
-
 ---
 
 ##  About Me
