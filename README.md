@@ -45,20 +45,14 @@ This GitHub is where I share my journey as I grow as a developer.
 
 ---
 
-## Connect with Me
+## 🕹️ Connect with Me
 
-<p align="center">
-  <a href="https://iwx-10.itch.io/">
-    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/ayoub__iwx">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/AYOUB_IWX">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+[![Itch.io](https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?style=flat-square&logo=itchdotio&logoColor=white)](https://iwx-10.itch.io/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ayoub__iwx)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=x&logoColor=white)](https://x.com/AYOUB_IWX)
+
+</div>
 
 ---
