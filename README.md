@@ -45,16 +45,6 @@ This GitHub is where I share my journey as I grow as a developer.
 
 ---
 
-## 📌 Current Project
-
-###  [Stach](https://github.com/IWXdev/Stach)
-- Building a 2D platformer game called **Stach**
-- Polishing gameplay mechanics (movement, combat, healing, checkpoints…)
-- Improving performance and code structure
-- Documenting my learning process
-
----
-
 ## Connect with Me
 
 <p align="center">
