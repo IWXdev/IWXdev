@@ -14,3 +14,4 @@ jobs:
         with:
           repository: "IWXdev/Echoes-Of-Frost-Mobile"
           type: "latest"
+          token: ${{ secrets.GH_TOKEN }}
