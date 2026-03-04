@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IWXdev&label=Profile%20Views&color=4CAF50&style=flat-square" alt="Views" />
 </p>
----
+
 ### 📖 About Me
 
 I am a passionate game developer with a focus on creating immersive experiences. My core strength lies in **Godot Engine** and **GDScript**, but I am constantly expanding my arsenal.
@@ -23,8 +23,13 @@ I am a passionate game developer with a focus on creating immersive experiences.
 ### 🎮 Featured Project: Echoes of Frost
 A cinematic, atmospheric 2D platformer built with **Godot**.
 - [🕹️ Play the Demo on Itch.io](https://iwx-10.itch.io/echoes-of-frost-demo)
----
 
+
+
+### 🚀 Latest Release: Echoes of Frost
+*Loading latest release...*
+
+---
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
