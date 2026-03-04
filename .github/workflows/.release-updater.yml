@@ -2,16 +2,32 @@ name: Update Release Info
 on:
   schedule:
     - cron: '0 * * * *'
-  workflow_dispatch: 
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Update README
-        uses: x0rtex/get-github-release@main
+
+      - name: Get Latest Release
+        id: get_release
+        uses: octokit/request-action@v2.x
         with:
-          repository: "IWXdev/Echoes-Of-Frost-Mobile"
-          type: "latest"
-          token: ${{ secrets.GH_TOKEN }}
+          route: GET /repos/IWXdev/Echoes-Of-Frost-Mobile/releases/latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Update README content
+        run: |
+          TAG_NAME=$(echo '${{ steps.get_release.outputs.data }}' | jq -r '.tag_name')
+          HTML_URL=$(echo '${{ steps.get_release.outputs.data }}' | jq -r '.html_url')
+          sed -i "//,//c\\n- 🚀 Latest: [$TAG_NAME]($HTML_URL)\n" README.md
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "IWXdev"
+          git config --global user.email "action@github.com"
+          git add README.md
+          git commit -m "docs: update latest release info" || exit 0
+          git push
