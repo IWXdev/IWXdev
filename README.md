@@ -1,4 +1,6 @@
-<h1 align="center"> 🎮 I'm <span style="color:#4CAF50">IWX</span> </h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=IWX%20&fontSize=90&theme=tokyonight" />
+</p>
 
 <p align="center">
   <strong>Indie Game Developer | Self-Taught | Crafting Digital Worlds</strong><br>
@@ -10,7 +12,6 @@
 </p>
 
 ---
-
 ### 📖 About Me
 
 I am a passionate game developer with a focus on creating immersive experiences. My core strength lies in **Godot Engine** and **GDScript**, but I am constantly expanding my arsenal.
@@ -43,8 +44,8 @@ I am a passionate game developer with a focus on creating immersive experiences.
 ### 📊 Performance Metrics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IWXdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IWXdev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IWXdev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IWXdev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
