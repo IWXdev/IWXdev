@@ -26,7 +26,7 @@ A cinematic, atmospheric 2D platformer built with **Godot**.
 
 
 
-### Latest Release: Echoes of Frost
+### 🚀 Latest Release: Echoes of Frost
 *Loading latest release...*
 
 ---
