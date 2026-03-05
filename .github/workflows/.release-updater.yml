@@ -8,28 +8,28 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
       - name: Fetch Latest Release from API
-        id: fetch_data
-        run: |
-          RESPONSE=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
-            https://api.github.com/repos/IWXdev/Echoes-Of-Frost-Mobile/releases/latest)
-          
-          TAG=$(echo "$RESPONSE" | jq -r '.tag_name')
-          URL=$(echo "$RESPONSE" | jq -r '.html_url')
-          
-          echo "TAG=$TAG" >> $GITHUB_ENV
-          echo "URL=$URL" >> $GITHUB_ENV
+        id: get_release
+        uses: octokit/request-action@v2.x
+        with:
+          route: GET /repos/IWXdev/Echoes-Of-Frost-Mobile/releases/latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: Update README.md
         run: |
-          sed -i "//,//c\\n-  Latest: [${{ env.TAG }}](${{ env.URL }})\n" README.md
+          TAG_NAME=$(echo '${{ steps.get_release.outputs.data }}' | jq -r '.tag_name')
+          HTML_URL=$(echo '${{ steps.get_release.outputs.data }}' | jq -r '.html_url')
+          
+          perl -i -0777 -pe "s/.*?/\n-  Latest: [$TAG_NAME]($HTML_URL)\n/s" README.md
 
       - name: Commit and Push
         run: |
           git config --global user.name "IWXdev"
           git config --global user.email "action@github.com"
           git add README.md
-          git commit -m "docs: auto-update latest release" || exit 0
+          git commit -m "docs: update latest release info [skip ci]" || exit 0
           git push
