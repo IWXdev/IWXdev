@@ -1,7 +1,7 @@
 name: Update Release Info
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -9,9 +9,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Update README
-        uses: x0rtex/get-github-release@main
-        with:
-          repository: "IWXdev/Echoes-Of-Frost-Mobile"
-          type: "latest"
-          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Fetch Latest Release from API
+        id: fetch_data
+        run: |
+          RESPONSE=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+            https://api.github.com/repos/IWXdev/Echoes-Of-Frost-Mobile/releases/latest)
+          
+          TAG=$(echo "$RESPONSE" | jq -r '.tag_name')
+          URL=$(echo "$RESPONSE" | jq -r '.html_url')
+          
+          echo "TAG=$TAG" >> $GITHUB_ENV
+          echo "URL=$URL" >> $GITHUB_ENV
+
+      - name: Update README.md
+        run: |
+          sed -i "//,//c\\n-  Latest: [${{ env.TAG }}](${{ env.URL }})\n" README.md
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "IWXdev"
+          git config --global user.email "action@github.com"
+          git add README.md
+          git commit -m "docs: auto-update latest release" || exit 0
+          git push
