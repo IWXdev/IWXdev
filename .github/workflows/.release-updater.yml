@@ -20,11 +20,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: Update README.md
+        env:
+          TAG: ${{ steps.get_release.outputs.data && fromJSON(steps.get_release.outputs.data).tag_name || 'v1.2' }}
+          URL: ${{ steps.get_release.outputs.data && fromJSON(steps.get_release.outputs.data).html_url || 'https://github.com/IWXdev/Echoes-Of-Frost-Mobile' }}
         run: |
-          TAG_NAME=$(echo '${{ steps.get_release.outputs.data }}' | jq -r '.tag_name')
-          HTML_URL=$(echo '${{ steps.get_release.outputs.data }}' | jq -r '.html_url')
-          
-          perl -i -0777 -pe "s/.*?/\n-  Latest: [$TAG_NAME]($HTML_URL)\n/s" README.md
+          perl -i -0777 -pe "s/.*?/\n- 🚀 Latest: [$ENV{TAG}]($ENV{URL})\n/s" README.md
 
       - name: Commit and Push
         run: |
