@@ -13,9 +13,10 @@
 
 ### 📖 About Me
 
-I am a passionate game developer with a focus on creating immersive experiences. My core strength lies in **Godot Engine** and **GDScript**, but I am constantly expanding my arsenal.
+I am a passionate game developer and Someone who thinks he knows what he is doing—and he might well be right.       
 
-* 🔭 **Currently:** Deep diving into **Unity** and mastering **C#**.
+
+* 🔭 **Currently:** Deep diving into mastering **C#**.
 * ⚙️ **Low-Level Interest:** Exploring **C** and **C++** for performance-critical logic.
 * 🐧 **Environment:** Power user of **Linux/Unix** terminals and automation scripts.
 * 🚀 **Goal:** Creating games that leave a lasting impact on players.
