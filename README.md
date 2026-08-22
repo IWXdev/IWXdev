@@ -34,9 +34,11 @@ A cinematic, atmospheric 2D platformer built with **Godot**.
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
+  <img src="https://img.shields.io/badge/vulkan-%23FFFFFF.svg?style=for-the-badge&logo=vulkan&logoColor=red" alt="vulkan"/>
   <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=blue" alt="Godot"/>
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-   <img src="https://img.shields.io/badge/Blender-%23FFFFFF.svg?style=for-the-badge&logo=Blender&logoColor=orange" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Blender-%23FFFFFF.svg?style=for-the-badge&logo=Blender&logoColor=orange" alt="Unity"/>
+  <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=OpenGL&logoColor=blue" alt="OpenGL"/>
   <br>
   <img src="https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/c-%23073763.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
