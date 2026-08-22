@@ -13,10 +13,10 @@
 
 ### 📖 About Me
 
-I am a passionate game developer and Someone who thinks he knows what he is doing—and he might well be right.       
+I am a programmer and passionate game developer.       
 
 
-* 🔭 **Currently:** Deep diving into mastering **C#**.
+* 🔭 **Currently:** Deep diving into mastering **C#** and **GDscript**.
 * ⚙️ **Low-Level Interest:** Exploring **C** and **C++** for performance-critical logic.
 * 🐧 **Environment:** Power user of **Linux/Unix** terminals and automation scripts.
 * 🚀 **Goal:** Creating games that leave a lasting impact on players.
