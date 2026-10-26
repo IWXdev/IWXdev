@@ -20,18 +20,16 @@
  
 I am a programmer and passionate game developer.
  
-* 🔭 **Currently:** Deep diving into mastering **C#** and **GDScript**.
 * ⚙️ **Low-Level Interest:** Exploring **C** and **C++** for performance-critical logic.
 * 🐧 **Environment:** Power user of **Linux/Unix** terminals and automation scripts.
-* 🚀 **Goal:** Creating games that leave a lasting impact on players.
 ---
  
-### 🎮 Featured Project: Echoes Of Frost
+### 🎮 Some of our games:
  
-A brutal, atmospheric 2D brawler built with **Godot**.
  
 <p align="center">
-  <a href="https://iwx-10.itch.io/echoes-of-frost-demo"><img src="https://img.shields.io/badge/Play%20the%20Demo-171c25?style=for-the-badge&logo=itchdotio&logoColor=ffb454" alt="Play on itch.io"/></a>
+  <a href="https://iwx-10.itch.io/echoes-of-frost-demo"><img src="https://img.shields.io/badge/Echoes%20Of%20Frost-171c25?style=for-the-badge&logo=itchdotio&logoColor=ffb454" alt="Play on itch.io"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.iwx.fallingcore"><img src="https://img.shields.io/badge/Falling%20Core-171c25?style=for-the-badge&logo=google&logoColor=ff2196f3" alt="google play"/></a>
   <a href="https://iwxdev.github.io/iwx-studio/games.html"><img src="https://img.shields.io/badge/See%20All%20Games-171c25?style=for-the-badge&logoColor=ffb454" alt="See all games"/></a>
 </p>
 ---
